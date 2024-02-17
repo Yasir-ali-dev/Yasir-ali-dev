@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Yasir Ali</h1>
+<h4 align="left">Currently working on Spring Boot, Spring Data JPA, Android Development with Jetpack Compose</h4>
 <h4 align="left">A passionate developer with expertise in react-js and node-js</h4>
 <h4 align="left">I am student of Computer Science in Sukkur IBA University</h4>
-<h4 align="left">I am curently working on the react-js and and node-j4</h4>
+<h4 align="left">Worked on react-js and and node-js</h4>
 <h4 align="left">Talk about machine learning, Web technologies, Data Structures a4d Cross-palatform</h4>
 <h4 align="left">Looking for opertunities to grow in the field of AI, Web and4Cross-Platform Development</h4>
 <h4 align="left">Eager to  learn, work and collaberate with teams</h34
